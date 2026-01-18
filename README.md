@@ -19,7 +19,8 @@ The agent follows a basic **perceive → decide → act** loop and runs as an in
 ```
 simple_ai_agent/
 │
-├── agent.py
+├── ai-agent.py
+|── ai-agent.yaml
 └── README.md
 ```
 
