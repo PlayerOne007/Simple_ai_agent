@@ -16,10 +16,12 @@ The agent follows a basic **perceive → decide → act** loop and runs as an in
 ---
 
 ## Project Structure
+```
 simple_ai_agent/
 │
 ├── agent.py
 └── README.md
+```
 
 ## How to Run
 
