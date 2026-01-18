@@ -1,0 +1,8 @@
+
+requirements:
+  python:
+    version: "3.8+"
+    verify_command: "python --version"
+
+
+
